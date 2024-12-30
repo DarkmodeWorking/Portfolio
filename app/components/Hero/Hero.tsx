@@ -14,7 +14,7 @@ const Hero = () => {
           I am your Friendly Neighbourhood coder boy who loves to develop in .js .py .cpp .cs .rs
         </p>
         <a href='mailto:bhattacharjeeanurag3@gmail.com' className='self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl/6'>
-          Let's Connect{' '}
+          Let&apos;s Connect{' '}
           <img src='/arrow_right_icon.svg' alt='Arrow Right Icon' />
         </a>
       </div>
