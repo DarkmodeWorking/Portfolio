@@ -1,0 +1,150 @@
+[
+    {
+        "name": "C",
+        "icon": "/c.svg"
+    },
+    {
+        "name": "C++",
+        "icon": "/cplusplus.svg"
+    },
+    {
+        "name": "Javascript",
+        "icon": "/javascript.svg"
+    },
+    {
+        "name": "Typescript",
+        "icon": "/typescript.svg"
+    },
+    {
+        "name": "Python",
+        "icon": "/python.svg"
+    },
+    {
+        "name": "C#",
+        "icon": "/cplusplus.svg"
+    },
+    {
+        "name": "Dart",
+        "icon": "/dart.svg"
+    },
+    {
+        "name": "PHP",
+        "icon": "/php.svg"
+    },
+    {
+        "name": "Go",
+        "icon": "/go.svg"
+    },
+    {
+        "name": "Ruby",
+        "icon": "/ruby.svg"
+    },
+    {
+        "name": "Rust",
+        "icon": "/rust.svg"
+    },
+    {
+        "name": "React JS",
+        "icon": "/react.svg"
+    },
+    {
+        "name": "Vue JS",
+        "icon": "/vuedotjs.svg"
+    },
+    {
+        "name": "Svelte",
+        "icon": "/svelte.svg"
+    },
+    {
+        "name": "Next JS",
+        "icon": "/nextdotjs.svg"
+    },
+    {
+        "name": "Flutter",
+        "icon": "/flutter.svg"
+    },
+    {
+        "name": "Express",
+        "icon": "/express.svg"
+    },
+    {
+        "name": "Django",
+        "icon": "/django.svg"
+    },
+    {
+        "name": "FastAPI",
+        "icon": "/fastapi.svg"
+    },
+    {
+        "name": "Laravel",
+        "icon": "/laravel.svg"
+    },
+    {
+        "name": "Rails",
+        "icon": "/rubyonrails.svg"
+    },
+    {
+        "name": ".NET",
+        "icon": "/dotnet.svg"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "/mongodb.svg"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "/postgresql.svg"
+    },
+    {
+        "name": "Firebase",
+        "icon": "/firebase.svg"
+    },
+    {
+        "name": "Supabase",
+        "icon": "/supabase.svg"
+    },
+    {
+        "name": "Bash",
+        "icon": "/gnubash.svg"
+    },
+    {
+        "name": "Git",
+        "icon": "/git.svg"
+    },
+    {
+        "name": "Github",
+        "icon": "/github.svg"
+    },
+    {
+        "name": "AWS",
+        "icon": "/amazonwebservices.svg"
+    },
+    {
+        "name": "Docker",
+        "icon": "/docker.svg"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "/jenkins.svg"
+    },
+    {
+        "name": "Terraform",
+        "icon": "/terraform.svg"
+    },
+    {
+        "name": "Ansible",
+        "icon": "/ansible.svg"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "/kubernetes.svg"
+    },
+    {
+        "name": "Prometheus",
+        "icon": "/prometheus.svg"
+    },
+    {
+        "name": "Solana",
+        "icon": "/solana.svg"
+    }
+]

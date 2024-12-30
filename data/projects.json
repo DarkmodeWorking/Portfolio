@@ -1,0 +1,12 @@
+[
+    {
+        "thumbnail": "/tv3.mp4",
+        "title": "Techverse 3.0 Landing",
+        "link": {
+            "label": "Link",
+            "url": "https://www.tech-verse.tech"
+        },
+        "description": "Techverse 3.0 the third season of TechFest organized by Department of Computer Science",
+        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/cloudinary.svg"]
+    }
+]
