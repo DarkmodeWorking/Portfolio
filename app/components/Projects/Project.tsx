@@ -18,9 +18,9 @@ const Project = ({thumbnail, title, link, description, languagesIcon}: Props) =>
 			{thumbnail.endsWith('.mp4') ? (
 				<video 
 					src={thumbnail} 
-					width={392} 
-					height={230} 
-					className='w-full h-[230px] object-cover' 
+					width={500} 
+					height={190} 
+					className='w-full h-[190px] object-cover' 
 					controls 
 					preload="metadata"
 				>
@@ -30,9 +30,9 @@ const Project = ({thumbnail, title, link, description, languagesIcon}: Props) =>
 				<Image 
 					src={thumbnail} 
 					alt={`Thumbnail for ${title}`} 
-					width={392} 
-					height={230} 
-					className='w-full h-[230px] object-cover' 
+					width={500} 
+					height={190} 
+					className='w-full h-[190px] object-cover' 
 				/>
 			)}
 			<div className='flex flex-col gap-[11px]'>

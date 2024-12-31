@@ -7,7 +7,7 @@ import Project from './Project'
 const Projects = () => {
   return (
     <SectionContainer id='projects'>
-			<div className='section-contents mx-6 md:mx-[64px]'>
+			<div className='section-contents mx-6 md:mx-[60px]'>
 				<SectionHeader plainText='Some of my ' highlightText='Projects' />
 				<div className='lg:w-full grid grid-cols-1 lg:grid-cols-2 gap-10'>
 					{

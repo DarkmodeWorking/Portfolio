@@ -8,5 +8,25 @@
         },
         "description": "Techverse 3.0 the third season of TechFest organized by Department of Computer Science",
         "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/cloudinary.svg"]
+    },
+    {
+        "thumbnail": "/exz25.mp4",
+        "title": "Euphonious x Zyzzva 25",
+        "link": {
+            "label": "Link",
+            "url": "https://www.tech-verse.tech"
+        },
+        "description": "The Landing Page of Annual Cultural Fest of Guru Nanak Institute of Technology",
+        "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg"]
+    },
+    {
+        "thumbnail": "",
+        "title": "Primus",
+        "link": {
+            "label": "Link",
+            "url": ""
+        },
+        "description": "Learning Management System",
+        "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg", "/shadcnui.svg", "/jsonwebtokens.svg", "/nodedotjs.svg", "/express.svg", "/mongoose.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg"]
     }
 ]
