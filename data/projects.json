@@ -28,5 +28,15 @@
         },
         "description": "Learning Management System",
         "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg", "/shadcnui.svg", "/jsonwebtokens.svg", "/nodedotjs.svg", "/express.svg", "/mongoose.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg"]
+    },
+    {
+        "thumbnail": "",
+        "title": "Primus",
+        "link": {
+            "label": "Link",
+            "url": ""
+        },
+        "description": "SaaS Website",
+        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/shadcnui.svg", "/jsonwebtokens.svg", "/nodedotjs.svg", "/express.svg", "/mongoose.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg"]
     }
 ]
