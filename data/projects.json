@@ -7,7 +7,7 @@
             "url": "https://www.tech-verse.tech"
         },
         "description": "Techverse 3.0 the third season of TechFest organized by Department of Computer Science",
-        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/cloudinary.svg"]
+        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/framer-motion.svg", "/cloudinary.svg"]
     },
     {
         "thumbnail": "/exz25.mp4",
