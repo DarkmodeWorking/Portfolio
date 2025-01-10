@@ -22,7 +22,7 @@ const TopBackground = () => {
             <Image src='/merge_icon.svg' alt='Merge Icon' width={23} height={23} />
           </div>
           <div className='hidden md:circle-icon md:top-[368px] md:left-[965px]'>
-            <Image src='/stack_icon.svg' alt='Stack Icon' width={23} height={23} />
+            <Image src='/stackoverflow_icon_dark.svg' alt='Stack Icon' width={23} height={23} />
           </div>
         </div>
       </div>

@@ -38,5 +38,15 @@
         },
         "description": "SaaS Website",
         "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/clerk.svg", "/shadcnui.svg", "/jwt-3.svg", "/bun-1.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg"]
+    },
+    {
+        "thumbnail": "",
+        "title": "Primus",
+        "link": {
+            "label": "Link",
+            "url": ""
+        },
+        "description": "Some App",
+        "languagesIcon": ["dart.svg", "flutter.svg", "firebase.svg"]
     }
 ]

@@ -20,8 +20,8 @@
         "icon": "/python.svg"
     },
     {
-        "name": "C#",
-        "icon": "/c--4.svg"
+        "name": "Bash",
+        "icon": "/gnubash.svg"
     },
     {
         "name": "Dart",
@@ -52,12 +52,12 @@
         "icon": "/vuedotjs.svg"
     },
     {
-        "name": "Svelte",
-        "icon": "/svelte.svg"
-    },
-    {
         "name": "Next JS",
         "icon": "/nextdotjs.svg"
+    },
+    {
+        "name": "Astro JS",
+        "icon": "/astro.svg"
     },
     {
         "name": "Flutter",
@@ -104,8 +104,44 @@
         "icon": "/supabase.svg"
     },
     {
-        "name": "Bash",
-        "icon": "/gnubash.svg"
+        "name": "Ubuntu",
+        "icon": "/ubuntu.svg"
+    },
+    {
+        "name": "Nginx",
+        "icon": "/nginx.svg"
+    },
+    {
+        "name": "GraphQL",
+        "icon": "/graphql.svg"
+    },
+    {
+        "name": "WebRTC",
+        "icon": "/webrtc.svg"
+    },
+    {
+        "name": "Redis",
+        "icon": "/redis.svg"
+    },
+    {
+        "name": "AWS",
+        "icon": "/amazonwebservices.svg"
+    },
+    {
+        "name": "AWS Lambda",
+        "icon": "/awslambda.svg"
+    },
+    {
+        "name": "Serverless",
+        "icon": "/serverless.svg"
+    },
+    {
+        "name": "AWS S3",
+        "icon": "/amazons3.svg"
+    },
+    {
+        "name": "AWS EC2",
+        "icon": "/amazonec2.svg"
     },
     {
         "name": "Git",
@@ -114,10 +150,6 @@
     {
         "name": "Github",
         "icon": "/github.svg"
-    },
-    {
-        "name": "AWS",
-        "icon": "/amazonwebservices.svg"
     },
     {
         "name": "Docker",
