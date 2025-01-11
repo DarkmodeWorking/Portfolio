@@ -14,7 +14,7 @@ type Props = {
 
 const Project = ({thumbnail, title, link, description, languagesIcon}: Props) => {
   return (
-    <div className='card flex flex-col items-stretch w-full max-w-[428.4px] p-5 md:p-[18px] gap-[30px]'>
+    <div className='card flex flex-col items-stretch w-full max-w-[450.4px] p-5 md:p-[18px] gap-[30px]'>
 			{thumbnail.endsWith('.mp4') ? (
 				<video 
 					src={thumbnail} 

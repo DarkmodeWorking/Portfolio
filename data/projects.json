@@ -27,7 +27,7 @@
             "url": ""
         },
         "description": "Learning Management System",
-        "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg", "/shadcnui.svg", "/jwt-3.svg", "/npm.svg", "/express.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg", "/stripe.svg"]
+        "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg", "/shadcnui.svg", "/redux.svg", "/jsonwebtokens.svg", "/nodedotjs.svg", "/express.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg", "/stripe.svg", "/vercel.svg"]
     },
     {
         "thumbnail": "",
@@ -37,7 +37,7 @@
             "url": ""
         },
         "description": "SaaS Website",
-        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/clerk.svg", "/shadcnui.svg", "/jwt-3.svg", "/bun-1.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg"]
+        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/clerk.svg", "/shadcnui.svg", "/jsonwebtokens.svg", "/bun.svg", "/prisma.svg", "/zod.svg", "/googlegemini.svg", "/postgresql.svg", "/stripe.svg", "/docker.svg"]
     },
     {
         "thumbnail": "",
@@ -48,5 +48,15 @@
         },
         "description": "Some App",
         "languagesIcon": ["dart.svg", "flutter.svg", "firebase.svg"]
+    },
+    {
+        "thumbnail": "",
+        "title": "Primus",
+        "link": {
+            "label": "Link",
+            "url": ""
+        },
+        "description": "Some App",
+        "languagesIcon": ["/blazor.svg", "/dotnet.svg"]
     }
 ]

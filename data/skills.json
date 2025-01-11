@@ -178,5 +178,21 @@
     {
         "name": "Solana",
         "icon": "/solana.svg"
+    },
+    {
+        "name": "Figma",
+        "icon": "/figma.svg"
+    },
+    {
+        "name": "Canva",
+        "icon": "/canva.svg"
+    },
+    {
+        "name": "Arduino",
+        "icon": "/arduino.svg"
+    },
+    {
+        "name": "Raspberry Pi",
+        "icon": "/raspberrypi.svg"
     }
 ]
