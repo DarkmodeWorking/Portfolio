@@ -176,16 +176,16 @@
         "icon": "/prometheus.svg"
     },
     {
-        "name": "Solana",
-        "icon": "/solana.svg"
-    },
-    {
         "name": "Figma",
         "icon": "/figma.svg"
     },
     {
         "name": "Canva",
         "icon": "/canva.svg"
+    },
+    {
+        "name": "Solana",
+        "icon": "/solana.svg"
     },
     {
         "name": "Arduino",

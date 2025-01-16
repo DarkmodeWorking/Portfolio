@@ -55,7 +55,13 @@ const Skills = () => {
           }
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(44,50).map((skill, id) => (
+            skills.slice(44,46).map((skill, id) => (
+              <Skill key={id} name={skill.name} icon={skill.icon} />
+            ))
+          }
+          <div className="w-full md:h-[5px]"></div>
+          {
+            skills.slice(46,47).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
