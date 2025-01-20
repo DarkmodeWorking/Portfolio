@@ -29,7 +29,7 @@ const Contact = () => {
 					</div>
 				</div>
 			</div>
-			<small>Copyright &copy; Anurag Bhattacharjee 2024</small>
+			<small>Copyright &copy; Anurag Bhattacharjee 2025</small>
     </section>
   )
 }

@@ -11,7 +11,7 @@ const Hero = () => {
           <span className='block text-[27px] highlight mt-2 md:text-[45px] md:inline md:mt-0'>Software Engineer</span>
         </h1>
         <p className='text-center text-sm mx-6 md:text-[22px] md:text-start md:mx-0'>
-          I am your Friendly Neighbourhood coder boy who loves to develop in .js .py .cpp .cs .ru .go
+          I am your Friendly Neighbourhood coder boy who loves to develop in .js .py .cpp
         </p>
         <a href='mailto:bhattacharjeeanurag3@gmail.com' className='self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl/6'>
           Let&apos;s Connect{' '}
