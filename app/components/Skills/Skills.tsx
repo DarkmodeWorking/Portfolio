@@ -17,12 +17,8 @@ const Skills = () => {
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
-          <div className="w-full md:h-[5px]"></div>
-          {
-            skills.slice(11,16).map((skill, id) => (
-              <Skill key={id} name={skill.name} icon={skill.icon} />
-            ))
-          }
+
+          <section className='hidden md:flex flex-wrap justify-center items-center gap-[19px] md:gap-[33px]'>
           <div className="w-full md:h-[5px]"></div>
           {
             skills.slice(16,22).map((skill, id) => (
@@ -65,6 +61,8 @@ const Skills = () => {
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
+          </section>
+
         </div>
       </div>
       <div>

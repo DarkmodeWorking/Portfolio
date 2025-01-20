@@ -1,16 +1,30 @@
 [
     {
-        "image": "/nextdotjs.svg",
+        "image": "/noisoftware_logo.jpeg",
         "company": "NOI Software",
         "role": ".NET Intern",
         "description": "Worked on EMIL By Aditya Birla and made their irise management system for the employees and admins",
-        "dates": "2024 - Present"
+        "dates": "November 2024 - Present"
     },
     {
-        "image": "/nextdotjs.svg",
-        "company": "NOI Software",
-        "role": ".NET Intern",
-        "description": "Worked on EMIL By Aditya Birla and made their irise management system for the employees and admins",
-        "dates": "2024 - Present"
+        "image": "/bit_2_byte_logo.jpeg",
+        "company": "Bit 2 Byte GNIT",
+        "role": "President",
+        "description": "Club President for the Coding Club of GNIT aiemd at empowring others about tech",
+        "dates": "August 2024 - Present"
+    },
+    {
+        "image": "/gdgc_gnit_logo.jpeg",
+        "company": "GDG On Campus GNIT",
+        "role": "App Dev Lead",
+        "description": "Core team of GDGC GNIT aimed at showcasing Flutter as app development technology",
+        "dates": "February 2023 - Present"
+    },
+    {
+        "image": "/hack4bengal_logo.jpeg",
+        "company": "Hack 4 Bengal",
+        "role": "Finalist",
+        "description": "Attended Hack4Bengal 3.0 (36 hours hackathon) at JISCE Kalyani",
+        "dates": "July 2024"
     }
 ]

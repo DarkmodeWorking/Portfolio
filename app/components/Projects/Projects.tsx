@@ -16,7 +16,10 @@ const Projects = () => {
 					}
 				</div>
 			</div>
+			<Image src='/projects_highlight.svg' alt='Background highlight decoration' width={558} height={558} className='absolute hidden md:block left-1/2 top-1/4 -translate-x-1/2 -translate-y-1/4 -z-10' />
 			<Image src='/projects_highlight.svg' alt='Background highlight decoration' width={558} height={558} className='absolute hidden md:block left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -z-10' />
+			<Image src='/projects_highlight.svg' alt='Background highlight decoration' width={558} height={558} className='absolute hidden md:block left-1/2 top-3/4 -translate-x-1/2 -translate-y-3/4 -z-10' />
+
 			<Image src='/projects_highlight_mobile.svg' alt='Mobile Background highlight decoration' width={321} height={530} className='absolute md:hidden block left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -z-10' />
     </SectionContainer>
   )
