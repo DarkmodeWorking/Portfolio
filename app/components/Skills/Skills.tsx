@@ -10,7 +10,7 @@ const Skills = () => {
   return (
     <SectionContainer id='skills'>
       <div className='section-contents mx-[22px] md:mx-[60px]'>
-        <SectionHeader plainText='This is my ' highlightText='Tech Stack' />
+        <SectionHeader plainText='These are my explored ' highlightText='Technologies' />
         <div className='card w-full px-[33px] py-[27px] flex flex-col flex-wrap md:flex-row justify-center items-center gap-[19px] md:gap-[33px]'>
           {
             skills.slice(0,11).map((skill, id) => (
@@ -21,43 +21,49 @@ const Skills = () => {
           <section className='hidden md:flex flex-wrap justify-center items-center gap-[19px] md:gap-[33px]'>
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(16,22).map((skill, id) => (
+            skills.slice(11,17).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(22,26).map((skill, id) => (
+            skills.slice(17,23).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(26,31).map((skill, id) => (
+            skills.slice(23,27).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(31,36).map((skill, id) => (
+            skills.slice(27,32).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(36,44).map((skill, id) => (
+            skills.slice(32,37).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(44,46).map((skill, id) => (
+            skills.slice(37,45).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }
           <div className="w-full md:h-[5px]"></div>
           {
-            skills.slice(46,47).map((skill, id) => (
+            skills.slice(45,47).map((skill, id) => (
+              <Skill key={id} name={skill.name} icon={skill.icon} />
+            ))
+          }
+          <div className="w-full md:h-[5px]"></div>
+          {
+            skills.slice(47,48).map((skill, id) => (
               <Skill key={id} name={skill.name} icon={skill.icon} />
             ))
           }

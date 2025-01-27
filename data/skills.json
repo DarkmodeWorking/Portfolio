@@ -56,6 +56,10 @@
         "icon": "/nextdotjs.svg"
     },
     {
+        "name": "Alpine.JS",
+        "icon": "/alpinedotjs.svg"
+    },
+    {
         "name": "Astro JS",
         "icon": "/astro.svg"
     },
