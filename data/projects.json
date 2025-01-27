@@ -46,7 +46,7 @@
             "label": "Link",
             "url": ""
         },
-        "description": "Some App",
+        "description": "Music Streaming Platform",
         "languagesIcon": ["dart.svg", "flutter.svg", "firebase.svg"]
     },
     {
@@ -56,8 +56,8 @@
             "label": "Link",
             "url": ""
         },
-        "description": "Some App",
-        "languagesIcon": ["/blazor.svg", "/dotnet.svg"]
+        "description": "Employee Management System",
+        "languagesIcon": ["/visual-studio.svg" , "/csharp.svg", "/javascript.svg", "/dotnet.svg", "/blazor.svg", "/jsonwebtokens.svg", "/microsoft-sql-server.svg"]
     },
     {
         "thumbnail": "",
