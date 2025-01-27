@@ -21,7 +21,7 @@ const Hero = () => {
       <div>
         <Image src='/profile_light_purple.png' alt='Light Purple Rectangle' width={372} height={430} className='hidden md:block w-[372px] h-[430px] absolute right-0 -z-10' />
         <Image src='/profile_dark_purple.png' alt='Dark Purple Rectangle' width={372} height={430} className='hidden md:block w-[372px] h-[430px] absolute right-0 -z-10' />
-        <Image src='/github.png' alt='Profile Pic' width={357} height={417} className='rounded-3xl hidden md:block min-w-[357px] h-[417px] z-10 mr-[7.7px] my-[6.5px]' />
+        <Image src='/profile.jpeg' alt='Profile Pic' width={357} height={390} className='rounded-3xl hidden md:block min-w-[357px] h-[390px] z-10 mr-[7.7px] my-[6.5px]' />
       </div>
     </section>
   )
