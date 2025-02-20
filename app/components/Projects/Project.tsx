@@ -52,7 +52,7 @@ const Project = ({thumbnail, title, link, description, languagesIcon}: Props) =>
 				<div className='flex flex-row gap-[11px]'>
 					{
 						languagesIcon.map((icon, iconId) => (
-							<img height={20} width={20} src={icon} alt='Language Icon' key={iconId} />
+							<img height={16} width={16} src={icon} alt='Language Icon' key={iconId} />
 						))
 					}
 				</div>

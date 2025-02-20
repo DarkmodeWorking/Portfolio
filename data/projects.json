@@ -7,7 +7,7 @@
             "url": "https://www.tech-verse.tech"
         },
         "description": "Techverse 3.0 the third season of TechFest organized by Department of Computer Science",
-        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/framer-motion.svg", "/cloudinary.svg"]
+        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/framer-motion.svg", "/cloudinary.svg", "/mongodb.svg", "/vercel.svg"]
     },
     {
         "thumbnail": "/exz25.mp4",
@@ -27,7 +27,7 @@
             "url": ""
         },
         "description": "Learning Management System",
-        "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg", "/shadcnui.svg", "/redux.svg", "/jsonwebtokens.svg", "/nodedotjs.svg", "/express.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg", "/razorpay.svg", "/vercel.svg"]
+        "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg", "/shadcnui.svg", "/redux.svg", "/jsonwebtokens.svg", "/nodedotjs.svg", "/npm.svg", "/express.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg", "/stripe.svg", "/render.svg"]
     },
     {
         "thumbnail": "",
@@ -37,7 +37,7 @@
             "url": ""
         },
         "description": "SaaS Website",
-        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/clerk.svg", "/shadcnui.svg", "/jsonwebtokens.svg", "/bun.svg", "/prisma.svg", "/zod.svg", "/googlegemini.svg", "/postgresql.svg", "/razorpay.svg", "/docker.svg"]
+        "languagesIcon": ["typescript.svg", "/nextdotjs.svg", "/tailwindcss.svg", "/clerk.svg", "/shadcnui.svg", "/jsonwebtokens.svg", "/bun.svg", "/prisma.svg", "/zod.svg", "/googlegemini.svg", "/postgresql.svg", "/stripe.svg", "/docker.svg", "/vercel.svg"]
     },
     {
         "thumbnail": "",
