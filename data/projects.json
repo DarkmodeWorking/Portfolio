@@ -24,7 +24,7 @@
         "title": "Primus",
         "link": {
             "label": "Link",
-            "url": ""
+            "url": "https://techschool-20xi.onrender.com"
         },
         "description": "Learning Management System",
         "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg", "/shadcnui.svg", "/redux.svg", "/jsonwebtokens.svg", "/nodedotjs.svg", "/npm.svg", "/express.svg", "/postman.svg", "/cloudinary.svg", "/mongodb.svg", "/stripe.svg", "/render.svg"]
