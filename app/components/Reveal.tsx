@@ -28,7 +28,8 @@ const Reveal = ({
 
   return (
     <motion.span 
-      intial='hidden'
+			ref={ref}
+      initial='hidden'
 			variants={{ 
 		    		hidden: { opacity: 0, x: initialX, y: initialY },
 				visible: { opacity: 1, x: 0, y: 0 }
