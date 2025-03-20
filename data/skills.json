@@ -188,15 +188,15 @@
         "icon": "/canva.svg"
     },
     {
-        "name": "Solana",
-        "icon": "/solana.svg"
+        "name": "Solidity",
+        "icon": "/solidity.svg"
     },
     {
-        "name": "Arduino",
-        "icon": "/arduino.svg"
+        "name": "Ethereum",
+        "icon": "/ethereum.svg"
     },
     {
-        "name": "Raspberry Pi",
-        "icon": "/raspberrypi.svg"
+        "name": "Wagmi",
+        "icon": "/wagmi.svg"
     }
 ]
