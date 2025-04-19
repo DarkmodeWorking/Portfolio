@@ -18,5 +18,5 @@
         },
         "description": "The Landing Page of Annual Cultural Fest of Guru Nanak Institute of Technology",
         "languagesIcon": ["javascript.svg", "/react.svg", "/tailwindcss.svg"]
-    },
+    }
 ]
